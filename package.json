@@ -1,0 +1,27 @@
+{
+  "name": "JS_Training_Webpack_Starter",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "webpack --config webpack.config.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoCalmels/JS_Training_Webpack_Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoCalmels/JS_Training_Webpack_Starter/issues"
+  },
+  "homepage": "https://github.com/HugoCalmels/JS_Training_Webpack_Starter#readme",
+  "devDependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "babel-loader": "^8.2.2",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
